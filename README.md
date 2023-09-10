@@ -1,4 +1,4 @@
 # Markdown Suite
 ## Hello World!
-###About
+### About
 Markdown Suite is a progressive web app markdown editor.
